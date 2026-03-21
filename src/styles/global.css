@@ -8,11 +8,11 @@
   }
 
   .section-heading {
-    @apply font-label text-sm font-bold uppercase tracking-widest text-midnight/50 mb-4;
+    @apply font-label text-sm font-bold uppercase tracking-widest text-midnight/50 mb-4 border-l-2 border-sage pl-3;
   }
 
   .link {
-    @apply text-teal hover:underline underline-offset-4 transition-colors;
+    @apply text-teal no-underline hover:underline underline-offset-4 transition-colors;
   }
 
   .prose {
@@ -32,7 +32,7 @@
   }
 
   .prose a {
-    @apply text-teal hover:underline underline-offset-4 transition-colors;
+    @apply text-teal no-underline hover:underline underline-offset-4 transition-colors;
   }
 
   .prose ul {
