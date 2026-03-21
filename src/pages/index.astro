@@ -2,19 +2,56 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="Yash Kothari">
+<BaseLayout title="Yash Kothari" isHome>
   <div class="mt-12">
-    <h1 class="font-serif text-4xl font-bold leading-tight mb-8">Yash Kothari.</h1>
-    <p class="text-lg leading-relaxed text-warm-800 mb-6">
-      Builder, father, student of life.<br />Based in New York.
+    <h1 class="text-xl font-medium mb-3">Yash Kothari</h1>
+    <p class="text-warm-800 leading-relaxed mb-6">
+      Building things, raising a family, practicing presence. Based in New York.
     </p>
-    <div class="flex gap-6 text-sm mt-10">
-      <a href="/writing" class="underline underline-offset-4 decoration-warm-800/30 hover:decoration-warm-800 transition-colors">
-        Writing
-      </a>
-      <a href="/family" class="underline underline-offset-4 decoration-warm-800/30 hover:decoration-warm-800 transition-colors">
-        Family updates
-      </a>
-    </div>
+    <p class="text-warm-800 leading-relaxed mb-16">
+      Co-founder of <a href="https://kindredapp.co" class="link">Kindred</a>. Senior VP at <a href="https://pioneerfund.vc" class="link">Pioneer Fund</a>. Previously YC founder. Wharton grad.
+    </p>
+
+    <section class="mb-14">
+      <h2 class="section-heading">Projects</h2>
+      <ul class="space-y-3">
+        <li>
+          <a href="https://kindredapp.co" class="link">Kindred</a>
+          <span class="text-warm-800/60"> — AI-powered leadership coaching</span>
+        </li>
+        <li>
+          <a href="https://pioneerfund.vc" class="link">Pioneer Fund</a>
+          <span class="text-warm-800/60"> — Early-stage venture capital</span>
+        </li>
+        <li>
+          <span>Bombay || New York</span>
+          <span class="text-warm-800/60"> — A creative project blending Indian and NYC imagery</span>
+        </li>
+      </ul>
+    </section>
+
+    <section class="mb-14">
+      <h2 class="section-heading">Writing</h2>
+      <p><a href="/writing" class="link">Blog and essays &rarr;</a></p>
+    </section>
+
+    <section class="mb-14">
+      <h2 class="section-heading">Family</h2>
+      <p><a href="/family" class="link">Annual family updates &rarr;</a></p>
+    </section>
+
+    <section class="mb-14">
+      <h2 class="section-heading">Around the web</h2>
+      <ul class="space-y-3">
+        <li>
+          <a href="https://twitter.com/yaborohy" class="link">Twitter</a>
+          <span class="text-warm-800/60"> — @yaborohy</span>
+        </li>
+        <li>
+          <a href="https://linkedin.com/in/yashkothari" class="link">LinkedIn</a>
+          <span class="text-warm-800/60"> — in/yashkothari</span>
+        </li>
+      </ul>
+    </section>
   </div>
 </BaseLayout>

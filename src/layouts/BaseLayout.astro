@@ -2,10 +2,10 @@
 interface Props {
   title: string;
   description?: string;
+  isHome?: boolean;
 }
 
-const { title, description = 'Yash Kothari — Builder, father, student of life.' } = Astro.props;
-const currentPath = Astro.url.pathname;
+const { title, description = 'Yash Kothari — Builder, father, student of life.', isHome = false } = Astro.props;
 
 import '../styles/global.css';
 ---
@@ -20,53 +20,26 @@ import '../styles/global.css';
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Playfair+Display:wght@400;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
       rel="stylesheet"
     />
     <title>{title}</title>
   </head>
   <body class="bg-warm-50 text-warm-900 font-sans antialiased">
     <div class="max-w-[680px] mx-auto px-6 py-12 min-h-screen flex flex-col">
-      <nav class="mb-16">
-        <ul class="flex gap-6 text-sm tracking-wide">
-          <li>
-            <a
-              href="/"
-              class:list={['hover:text-warm-800 transition-colors', currentPath === '/' && 'font-medium']}
-            >
-              Home
-            </a>
-          </li>
-          <li>
-            <a
-              href="/writing"
-              class:list={[
-                'hover:text-warm-800 transition-colors',
-                currentPath.startsWith('/writing') && 'font-medium',
-              ]}
-            >
-              Writing
-            </a>
-          </li>
-          <li>
-            <a
-              href="/family"
-              class:list={[
-                'hover:text-warm-800 transition-colors',
-                currentPath.startsWith('/family') && 'font-medium',
-              ]}
-            >
-              Family
-            </a>
-          </li>
-        </ul>
-      </nav>
+      {!isHome && (
+        <nav class="mb-12">
+          <a href="/" class="text-sm text-warm-800/60 hover:text-warm-900 transition-colors">
+            &larr; Yash Kothari
+          </a>
+        </nav>
+      )}
 
       <main class="flex-1">
         <slot />
       </main>
 
-      <footer class="mt-24 pt-8 border-t border-warm-100 text-sm text-warm-800/60">
+      <footer class="mt-24 pt-8 border-t border-warm-100 text-sm text-warm-800/40">
         &copy; {new Date().getFullYear()} Yash Kothari
       </footer>
     </div>

@@ -8,13 +8,13 @@ const updates = (await getCollection('family')).sort(
 ---
 
 <BaseLayout title="Family — Yash Kothari" description="Annual family updates from the Kotharis.">
-  <h1 class="font-serif text-3xl font-bold mb-12">Family Updates</h1>
+  <h1 class="text-xl font-medium mb-12">Family Updates</h1>
   <div class="space-y-16">
     {updates.map(async (update) => {
       const { Content } = await render(update);
       return (
         <article>
-          <h2 class="font-serif text-2xl font-bold mb-1">{update.data.title}</h2>
+          <h2 class="text-lg font-medium mb-1">{update.data.title}</h2>
           <span class="text-sm text-warm-800/50 block mb-4">{update.data.year}</span>
           <div class="prose">
             <Content />

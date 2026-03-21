@@ -8,12 +8,12 @@ const posts = (await getCollection('writing')).sort(
 ---
 
 <BaseLayout title="Writing — Yash Kothari" description="Blog posts by Yash Kothari.">
-  <h1 class="font-serif text-3xl font-bold mb-12">Writing</h1>
+  <h1 class="text-xl font-medium mb-12">Writing</h1>
   <ul class="space-y-10">
     {posts.map((post) => (
       <li>
         <a href={`/writing/${post.id}`} class="group block">
-          <h2 class="font-serif text-xl font-bold group-hover:text-warm-800 transition-colors">
+          <h2 class="font-medium group-hover:underline underline-offset-4 transition-colors">
             {post.data.title}
           </h2>
           <time class="text-sm text-warm-800/50 mt-1 block" datetime={post.data.date.toISOString()}>

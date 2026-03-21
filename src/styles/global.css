@@ -7,6 +7,14 @@
     @apply leading-relaxed;
   }
 
+  .section-heading {
+    @apply text-xs font-medium uppercase tracking-widest text-warm-800/40 mb-4;
+  }
+
+  .link {
+    @apply text-warm-900 hover:underline underline-offset-4 transition-colors;
+  }
+
   .prose {
     @apply text-warm-800 leading-relaxed;
   }
@@ -16,15 +24,15 @@
   }
 
   .prose h2 {
-    @apply font-serif text-xl font-bold mt-8 mb-3;
+    @apply text-lg font-medium mt-8 mb-3;
   }
 
   .prose h3 {
-    @apply font-serif text-lg font-bold mt-6 mb-2;
+    @apply text-base font-medium mt-6 mb-2;
   }
 
   .prose a {
-    @apply underline underline-offset-4 decoration-warm-800/30 hover:decoration-warm-800 transition-colors;
+    @apply text-warm-900 hover:underline underline-offset-4 transition-colors;
   }
 
   .prose ul {
