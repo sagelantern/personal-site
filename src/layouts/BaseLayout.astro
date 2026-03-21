@@ -20,16 +20,16 @@ import '../styles/global.css';
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&family=Darker+Grotesque:wght@700&display=swap"
       rel="stylesheet"
     />
     <title>{title}</title>
   </head>
-  <body class="bg-warm-50 text-warm-900 font-sans antialiased">
+  <body class="bg-ivory text-midnight font-sans antialiased">
     <div class="max-w-[680px] mx-auto px-6 py-12 min-h-screen flex flex-col">
       {!isHome && (
         <nav class="mb-12">
-          <a href="/" class="text-sm text-warm-800/60 hover:text-warm-900 transition-colors">
+          <a href="/" class="text-sm text-midnight/60 hover:text-midnight transition-colors">
             &larr; Yash Kothari
           </a>
         </nav>
@@ -39,7 +39,7 @@ import '../styles/global.css';
         <slot />
       </main>
 
-      <footer class="mt-24 pt-8 border-t border-warm-100 text-sm text-warm-800/40">
+      <footer class="mt-24 pt-8 border-t border-sage text-sm text-midnight/40">
         &copy; {new Date().getFullYear()} Yash Kothari
       </footer>
     </div>

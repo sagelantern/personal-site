@@ -8,15 +8,15 @@
   }
 
   .section-heading {
-    @apply text-xs font-medium uppercase tracking-widest text-warm-800/40 mb-4;
+    @apply font-label text-sm font-bold uppercase tracking-widest text-midnight/50 mb-4;
   }
 
   .link {
-    @apply text-warm-900 hover:underline underline-offset-4 transition-colors;
+    @apply text-teal hover:underline underline-offset-4 transition-colors;
   }
 
   .prose {
-    @apply text-warm-800 leading-relaxed;
+    @apply font-serif text-midnight/90 leading-relaxed;
   }
 
   .prose p {
@@ -24,15 +24,15 @@
   }
 
   .prose h2 {
-    @apply text-lg font-medium mt-8 mb-3;
+    @apply font-sans text-lg font-light mt-8 mb-3 text-midnight;
   }
 
   .prose h3 {
-    @apply text-base font-medium mt-6 mb-2;
+    @apply font-sans text-base font-normal mt-6 mb-2 text-midnight;
   }
 
   .prose a {
-    @apply text-warm-900 hover:underline underline-offset-4 transition-colors;
+    @apply text-teal hover:underline underline-offset-4 transition-colors;
   }
 
   .prose ul {
@@ -44,6 +44,6 @@
   }
 
   .prose blockquote {
-    @apply border-l-2 border-warm-100 pl-4 italic text-warm-800/70 my-4;
+    @apply border-l-2 border-sage pl-4 italic text-midnight/70 my-4;
   }
 }

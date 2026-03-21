@@ -4,16 +4,15 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        serif: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans: ['Inter', 'system-ui', 'sans-serif'],
+        sans: ['"DM Sans"', 'system-ui', 'sans-serif'],
+        serif: ['"Crimson Text"', 'Georgia', 'serif'],
+        label: ['"Darker Grotesque"', 'system-ui', 'sans-serif'],
       },
       colors: {
-        warm: {
-          50: '#faf8f5',
-          100: '#f0ebe4',
-          800: '#3d3529',
-          900: '#2a2318',
-        },
+        ivory: '#F7F4F0',
+        midnight: '#002835',
+        teal: '#007B76',
+        sage: '#C8D4C9',
       },
     },
   },
