@@ -1,0 +1,17 @@
+---
+title: "The Power of Keeping In Touch"
+date: "2013-12-01"
+description: ""
+---
+
+Over Thanksgiving break, I went to visit a close high school friend at USC. While I was there, I met some of her closest friends. By the end of the three-day trip, it seemed like I had known her friends forever. We had deep conversations, trash talked while playing FIFA, and shared inside jokes. Heck, they even dropped me to the airport when I was leaving. On the red-eye back to Philly, it hit me — keeping in touch is so incredibly powerful and rewarding.
+
+When we’re at home and have mini reunions, it’s awesome. We get to reconnect with old friends and relive past memories such as our high school senior prank or prom. But how often do we take a moment to actually go visit them at their respective schools and meet all of their new college friends? Probably almost never. I’d argue that if there ever was a chance to meet interesting new people that you could really get along with then getting to know your high school bestie’s friends is it. It makes perfect sense. Our close friends are close to us because we get along and our personalities are compatible. When we graduate from high school, we all work hard in meeting others who are also compatible with us in the hope of making new friends. So, by deduction, it’s highly likely that your high school bud’s new friend circle shares a very similar sense of humor, values, and perspective to you. They’ve done the hard work in finding these amazing people that are similar to you so why not get to know them? And it doesn’t stop with high school. Personally, I hope I can do the same with my college friends when we move to our new jobs in New York and SF (or elsewhere).
+
+I’d argue the power of keeping in touch also applies in the networking sense. We often think that a good networker is someone who has the biggest stack of business cards at the end of the conference or the guy who seems to know everyone’s name. I’d argue that the best networkers are not just those who can get to know many people but those who can also keep in touch with them through meaningful gestures. Sure, you may have met someone for coffee 6 months ago and had a great conversation about your interests. But since then, have you ever sent them a text? An email? A Facebook message? If not then is that person really a part of your network or just someone you kind of know? I’d say the latter. I think it’s incredibly important to stay in touch with people who you value. Whether it’s sending them an article relevant to what they’re working on, checking in to see how things are progressing, or even wishing them happy birthday (but not just a Facebook wall post), it can go a long way in letting the person know: “Hey, I haven’t forgotten you and I care about how you’re doing.” In return, the person will feel cared for and will be more likely to help you out when you may need it.
+
+Whether it’s childhood friends or a speaker you just met the other day, keeping in touch can go a long way for your personal success. So take a moment to think about the most interesting people you’ve met in the past few months and shoot them an email to find out how they’re doing.
+
+Sign up for the Mind Mentos Newsletter [here](http://eepurl.com/bmJTUL)!
+[December 1, 2013](https://medium.com/p/17077e8b6b61).
+Exported from [Medium](https://medium.com) on March 21, 2026.

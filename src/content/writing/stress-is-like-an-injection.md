@@ -1,0 +1,19 @@
+---
+title: "Stress Is Like An Injection"
+date: "2014-02-15"
+description: ""
+---
+
+Most people I know don’t like, and sometimes really hate, going to the doctor for their annual shots. Yet, in most cases, it’s not the actual needle that hurts us as much as the anticipation of having a needle poked into your skin. As a matter of fact, being scared of an injection may actually make the whole process longer and harder for the doctor. You’re fidgety and restless and the doctor may need a few tries to get it right.
+
+I think we can try to apply this phenomenon to our lives and stress in general. We normally think that some sort of event or long to-do list is what causes stress in our day-to-day lives. Yet, like with the injection, it’s not these events but it’s the anticipation of these events that causes the core stress. For example, you have an exam tomorrow (unless it’s a snow day) but you’re probably not going to be sweating during the exam itself. It’s usually the night before when you realize you haven’t studied much that freaks you out. Then you start getting irritable, your heart rate probably goes up, and your mood worsens. This sucks. The point I’m trying to make is that the true cause for this anxiety and frustration from stress comes from thinking about the exam, not the exam itself. In my meditation class (which is turning out to be one of the most valuable classes I’ve taken at Penn), we talk about stress in the form of a three-stage cycle. It originates with your thoughts of an event (i.e. I haven’t studied at all, I’m in trouble.). These thoughts trigger some sort of bodily reaction (i.e. increased heart rate) that then trigger an emotional response (i.e. nervousness and frustration). The emotional response then intensifies the original thoughts and you see how this leads to a vicious cycle.
+
+Now that we’ve established that stress is internal, can’t we independently control it? If it’s just thoughts that lead to this vicious cycle, then if we can control our thoughts about certain events, we can completely control stress. The actual events that cause the stress don’t even matter. From the perspective of stress, it doesn’t matter if your exam is tomorrow or in an hour. It doesn’t matter if you’ve studied or not. It’s all about how you control your thoughts about it. I would argue that stress is almost always bad (and it’s been shown that it can cause long-term problems). For people who argue that stress is necessary, I’d disagree. Stress in itself doesn’t make you study harder, that’s just discipline and focus. So if you can control your thoughts, you’ll avoid getting irritated and if you stay focused, you’ll do well on the exam. That seems like a win-win. Now the only part is to learn how to control your thoughts and stay focused.
+
+So how can you do that? I’d recommend meditation. I’ve been doing it daily (~30 minutes) for the last couple of weeks and the results have been awesome. It’s almost like a sort of “conscious sleeping” and you wake up from the practice feeling more aware and refreshed. Things that happen around you just seem slower and you feel in control of your thoughts. So when there is some sort of event that may induce stress, I try to make an effort to slow down, take 20 breaths, and refocus my thoughts. I’m still an amateur but I can already see the fantastic efforts. Meditation has been around for thousands of years and is found throughout history. And everyone who has ever done it seriously has said that it has incredible benefits. Give it a shot and let it help you manage your stress.
+
+Want to know when I add a new post? Sign up [here](http://eepurl.com/bmJTUL) (it takes 10 seconds)!
+
+Note: This post is not a reference to any of the recent conversations about stress at Penn.
+[February 15, 2014](https://medium.com/p/e0306aa478ff).
+Exported from [Medium](https://medium.com) on March 21, 2026.

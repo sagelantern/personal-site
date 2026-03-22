@@ -8,4 +8,10 @@ export default defineConfig({
   output: 'static',
   adapter: cloudflare(),
   integrations: [mdx(), tailwind()],
+  redirects: {
+    '/all': '/writing',
+    '/about': '/',
+    '/followers': '/',
+    '/tagged/classess': '/writing',
+  },
 });

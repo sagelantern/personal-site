@@ -1,0 +1,17 @@
+---
+title: "Goodbye, Graduates"
+date: "2014-05-29"
+description: ""
+---
+
+It’s May 29th, 2014. That’s crazy, scary, and exciting in so many ways. It means India has a new Prime Minister. It means the World Cup is starting soon. It means that my time at Penn is almost up. And most importantly, it means that the Class of 2014 has graduated and I’ve had to say goodbye to some of my closest friends and most inspiring role models.
+
+Though I’m grateful to all of the graduates who have touched my life over the past several years, I really don’t know how to say goodbye. Walking down Locust during the week of graduation felt weird. It seemed normal as I’d say hi to seniors I recognized but then it would hit me that that was possibly the last time I’d ever see that person again. Suddenly, I’d feel a pang of sadness and then an urge to just go talk to that senior to seek some sort of closure. But that didn’t feel natural. It felt that it wasn’t meant to be that way. It almost felt right to ignore that deep unnerving feeling of never having to say goodbye. Upon reflection, I still don’t know what to do. Especially when we know we’ll no longer see someone, should we just live our lives the same way or should we acknowledge their imminent departure? Both sides feel unnatural.
+
+I only get more confused when I think about saying goodbye to two of my closest graduated friends, Akiff and Varshil. Their impact on my life is difficult to describe. Possibly the only way to describe it is that, for me, they’ve made Penn Penn. Without them, I don’t know what my last two years would have looked like — though I’m pretty confident I wouldn’t have been nearly as happy. I know they’ll forever be a part of my life in some way, shape, or form but I also know it’ll never be the same. We won’t have the flexibility to pull all-nighters for no apparent reason. We won’t be able to play games of FIFA in between classes. We won’t have the chance to spontaneously decide at 2AM that we want to play football outside. I don’t know if I should embrace their departure or not. On one hand, I feel obliged to realize the pain of their loss. They mean so much to me and saying goodbye, in a cruel way, deserves that emotional loss. On the flip side, I should look ahead rather than looking behind. Perhaps I can make myself believe that we can all relive our college days in San Francisco or I can just ignore that inner attachment and move on.
+
+For the most part, I’ve tried to move on and imagine a new life while trying to maintain special relationships that have made me who I am. I don’t know how it will pan out and that scares me. But I know that I’ll forever be grateful to Akiff, Varshil, and the Class of 2014 and I will always hope to cross paths again.
+
+Sign up for the Mind Mentos Newsletter [here](http://eepurl.com/bmJTUL)!
+[May 29, 2014](https://medium.com/p/fc44ad07462d).
+Exported from [Medium](https://medium.com) on March 21, 2026.
