@@ -49,7 +49,3 @@ Thanks to Pranshu Maheshwari, Varshil Patel, Aly Kassim-Lakha, and Anmol Bhansal
 [5] I feel that at times, women are respected as the more important gender. They are seen as beautiful, pure, and motherly. Often times India is referred to as “Mother India” because we see our country with the love and respect of a real mother. Yet sometimes, Indian women can be treated with such disrespect. They can subjected to people who have no right to be in the workplace and can be referred to as “[sweets lying by the roadside](http://blogs.timesofindia.indiatimes.com/politically-incorrect/mere-sapnon-ki-rani-not-to-be-wooed-but-raped-killed/?utm_source=facebook.com&utm_medium=referral&utm_campaign=TOI).” This has to change. We have to figure out solutions to tackle age old cultural traditions that put women at a disadvantage.
 
 [6] Perhaps the only way to answer whether India is for you or not is to go visit. Not as a tourist but to actually live and work there. If this sounds like something you’d want to do but you don’t know where to start, please reach out and I would be happy to help however I can.
-
-If you liked this post and want to be updated via email when a new post is published, please subscribe [here](http://eepurl.com/bmJTUL).
-[April 6, 2015](https://medium.com/p/64d045d8f366).
-Exported from [Medium](https://medium.com) on March 21, 2026.

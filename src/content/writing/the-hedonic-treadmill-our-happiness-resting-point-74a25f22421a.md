@@ -17,7 +17,3 @@ On campus recruiting (OCR) is the obvious example here. I don’t think living i
 The other (more comforting) implication from the hedonic treadmill is that time heals almost all wounds. If we know for a fact that we will return to a central resting point even after traumatic experiences such as a death to a loved one or a long-term breakup, then we know we will be okay. In the moment, it may seem like there’s nothing else more pressing but in almost all cases (including instances such as physical impairment), we come back to a set point. Having this knowledge is hopefully comforting in times of difficulty — everything will be okay if given enough time.
 
 Both of these implications are easier said than done, but if you truly believe in the hedonic treadmill then it’s only further proof to live in the moment while staying resilient in times of difficulty.
-
-If you liked this post and want to be updated via email when a new post is published, please subscribe to the blog [here](http://eepurl.com/bmJTUL) (it takes 10 seconds)!
-[February 9, 2015](https://medium.com/p/74a25f22421a).
-Exported from [Medium](https://medium.com) on March 21, 2026.

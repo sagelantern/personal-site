@@ -50,5 +50,3 @@ MGMT 233 — Strategies and Practices of Family Business — William Ale
 OPIM 415 — Product Design — Karl Ulrich
 
 *Interested in reading more of my writing? I now write daily on* [*Substack here*](http://yashkothari.substack.com)*.*
-[November 7, 2014](https://medium.com/p/b69d73507365).
-Exported from [Medium](https://medium.com) on March 21, 2026.

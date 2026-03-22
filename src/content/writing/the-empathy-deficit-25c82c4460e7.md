@@ -71,7 +71,3 @@ Look, empathy is hard. It requires a ton of effort and a change in mindset. It r
 ---
 
 Thanks to Sonali Fabiani, Akiff Premjee, and Aly Kassim-Lakha for reading and editing drafts of this.
-
-I write a new post every couple of months. If you want to know when I publish something new, drop your email address [here](http://eepurl.com/bmJTUL).
-[April 5, 2016](https://medium.com/p/25c82c4460e7).
-Exported from [Medium](https://medium.com) on March 21, 2026.

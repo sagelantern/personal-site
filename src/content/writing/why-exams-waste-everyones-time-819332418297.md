@@ -21,7 +21,3 @@ So I have another question for you: in those 30 hours you spent studying, did yo
 So when exams test on knowledge that we were supposed to memorize, I think it’s a waste of everyone’s time. It also wastes our professors’ and TAs’ valuable time because they have to come up with the questions, test them, grade them, curve them, and then regrade them. At Penn, I have met some of the smartest, driven people in the world. People who I know will no doubt be incredibly successful. It just frustrates me that during our college years, we spend so much time memorizing small details rather than working toward something bigger.
 
 So next time you’re about to go to the review session at 6PM in Huntsman Hall, I encourage you to think about what else you could do with that time instead.
-
-Sign up for the Mind Mentos Newsletter [here](http://eepurl.com/bmJTUL)!
-[November 23, 2013](https://medium.com/p/819332418297).
-Exported from [Medium](https://medium.com) on March 21, 2026.

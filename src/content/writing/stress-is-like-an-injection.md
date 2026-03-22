@@ -12,8 +12,4 @@ Now that we’ve established that stress is internal, can’t we independently c
 
 So how can you do that? I’d recommend meditation. I’ve been doing it daily (~30 minutes) for the last couple of weeks and the results have been awesome. It’s almost like a sort of “conscious sleeping” and you wake up from the practice feeling more aware and refreshed. Things that happen around you just seem slower and you feel in control of your thoughts. So when there is some sort of event that may induce stress, I try to make an effort to slow down, take 20 breaths, and refocus my thoughts. I’m still an amateur but I can already see the fantastic efforts. Meditation has been around for thousands of years and is found throughout history. And everyone who has ever done it seriously has said that it has incredible benefits. Give it a shot and let it help you manage your stress.
 
-Want to know when I add a new post? Sign up [here](http://eepurl.com/bmJTUL) (it takes 10 seconds)!
-
 Note: This post is not a reference to any of the recent conversations about stress at Penn.
-[February 15, 2014](https://medium.com/p/e0306aa478ff).
-Exported from [Medium](https://medium.com) on March 21, 2026.

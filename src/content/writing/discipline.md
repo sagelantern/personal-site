@@ -14,5 +14,3 @@ And sadly for us, it seems most of the stuff that’s really worth doing require
 
 1. Commit to forcing functions that create opt-outs rather than opt-ins. These things force you to do seemingly unpleasant tasks that build up to something you actually care about. Examples: personal trainers, paying for an educational class, deleting social media from your phone, a [Vipassana retreat](http://dhamma.org).
 2. Break these bigger long-term goals into bite-sized and gratifying short-term stepping stones. Example: I want to exercise more so I’ll start out by playing soccer (something I enjoy) 1x/week. Over time I’ll increase the frequency and variety into other exercises that I wasn’t willing to start out with.
-[January 28, 2020](https://medium.com/p/1bb2d6dac56e).
-Exported from [Medium](https://medium.com) on March 21, 2026.

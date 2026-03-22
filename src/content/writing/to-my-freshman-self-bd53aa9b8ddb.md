@@ -46,7 +46,3 @@ Your older self
 ---
 
 Thanks to Akiff Premjee, Sahil Shah, Alnur Kassim-Lakha, Josh Lee, Jasmine Kriston, Ali Altaf, Aly Kassim-Lakha, and Varshil Patel for reading and editing drafts of this.
-
-Want an email in your inbox when I publish a new post? Sign up [here](http://eepurl.com/bmJTUL).
-[May 9, 2015](https://medium.com/p/bd53aa9b8ddb).
-Exported from [Medium](https://medium.com) on March 21, 2026.

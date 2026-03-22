@@ -49,7 +49,3 @@ What we shouldn’t do is let the rise of media and our own insecurity trick us 
 ---
 
 Thanks to Aly Kassim-Lakha, Varshil Patel, and Sonali Fabiani for reading and editing drafts of this.
-
-Want an email in your inbox when I publish a new post? Drop your email address [here](http://eepurl.com/bmJTUL).
-[October 15, 2015](https://medium.com/p/d4e239a44743).
-Exported from [Medium](https://medium.com) on March 21, 2026.

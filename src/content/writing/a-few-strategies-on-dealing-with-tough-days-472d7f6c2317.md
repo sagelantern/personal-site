@@ -31,10 +31,6 @@ Some of these (talking to friends, meditation), I already rely on. Some of these
 
 Thanks to Jasmine Kriston, Akiff Premjee, Varshil Patel, and all of my friends on Facebook who contributed to this post :)
 
-I’ve been increasingly interested in mental wellness recently and hope to write a bit more about it. If you’d like to know when I publish a new post, sign up [here](http://eepurl.com/bmJTUL).
-
----
-
 And in case you’re interested, here’s the full list of ideas ranked by popularity:
 
 1. Talking to loved ones
@@ -58,5 +54,3 @@ And in case you’re interested, here’s the full list of ideas ranked by popul
 19. An unexpected phone call
 20. Getting easy tasks completed
 21. Sleeping
-[September 19, 2017](https://medium.com/p/472d7f6c2317).
-Exported from [Medium](https://medium.com) on March 21, 2026.
