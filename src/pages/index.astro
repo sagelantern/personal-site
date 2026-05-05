@@ -76,8 +76,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           <span class="text-monsoon-ink/70 font-serif"> &mdash; linkedin.com/in/kothariy</span>
         </li>
         <li>
-          <a href="mailto:kothari.s.yash@gmail.com" class="link">Email</a>
-          <span class="text-monsoon-ink/70 font-serif"> &mdash; kothari.s.yash@gmail.com</span>
+          <a href="#" class="link" id="email-link">Email</a>
+          <span class="text-monsoon-ink/70 font-serif" id="email-text"> &mdash; </span>
+          <script>
+            (function() {
+              var u = 'kothari.s.yash';
+              var d = 'gmail.com';
+              var e = u + '@' + d;
+              var link = document.getElementById('email-link');
+              var text = document.getElementById('email-text');
+              link.href = 'mai' + 'lto:' + e;
+              text.textContent = ' — ' + e;
+            })();
+          </script>
         </li>
       </ul>
     </section>
