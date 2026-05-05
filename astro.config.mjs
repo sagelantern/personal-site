@@ -10,7 +10,6 @@ export default defineConfig({
   integrations: [mdx(), tailwind()],
   redirects: {
     '/all': '/writing',
-    '/about': '/',
     '/followers': '/',
     '/tagged/classess': '/writing',
   },

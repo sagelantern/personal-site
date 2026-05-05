@@ -4,19 +4,19 @@
 
 @layer base {
   body {
-    @apply leading-relaxed;
+    @apply leading-[1.75];
   }
 
   .section-heading {
-    @apply font-label text-sm font-bold uppercase tracking-widest text-midnight/50 mb-4 border-l-2 border-sage pl-3;
+    @apply font-sans text-xs font-medium uppercase tracking-widest text-river-slate/60 mb-4 border-l-2 border-marigold pl-3;
   }
 
   .link {
-    @apply text-teal no-underline hover:underline underline-offset-4 transition-colors;
+    @apply text-temple-teal no-underline hover:underline underline-offset-4 transition-colors;
   }
 
   .prose {
-    @apply font-serif text-midnight/90 leading-relaxed;
+    @apply font-serif text-monsoon-ink/90 leading-[1.75];
   }
 
   .prose p {
@@ -24,15 +24,15 @@
   }
 
   .prose h2 {
-    @apply font-sans text-lg font-light mt-8 mb-3 text-midnight;
+    @apply font-sans text-lg font-medium mt-8 mb-3 text-monsoon-ink;
   }
 
   .prose h3 {
-    @apply font-sans text-base font-normal mt-6 mb-2 text-midnight;
+    @apply font-sans text-base font-normal mt-6 mb-2 text-monsoon-ink;
   }
 
   .prose a {
-    @apply text-teal no-underline hover:underline underline-offset-4 transition-colors;
+    @apply text-temple-teal no-underline hover:underline underline-offset-4 transition-colors;
   }
 
   .prose ul {
@@ -44,6 +44,6 @@
   }
 
   .prose blockquote {
-    @apply border-l-2 border-sage pl-4 italic text-midnight/70 my-4;
+    @apply border-l-2 border-sandstone pl-4 italic text-monsoon-ink/70 my-4;
   }
 }

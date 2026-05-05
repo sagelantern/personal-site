@@ -5,7 +5,7 @@ interface Props {
   isHome?: boolean;
 }
 
-const { title, description = 'Yash Kothari — Builder, father, student of life.', isHome = false } = Astro.props;
+const { title, description = 'Yash Kothari — founder, investor, meditator in New York.', isHome = false } = Astro.props;
 
 import '../styles/global.css';
 ---
@@ -20,26 +20,33 @@ import '../styles/global.css';
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&family=Darker+Grotesque:wght@700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,700;1,400&family=Newsreader:ital,wght@0,400;1,400&family=Instrument+Sans:wght@400;500&display=swap"
       rel="stylesheet"
     />
     <title>{title}</title>
   </head>
-  <body class="bg-ivory text-midnight font-sans antialiased">
+  <body class="bg-paper text-monsoon-ink font-sans antialiased">
     <div class="max-w-[680px] mx-auto px-6 py-12 min-h-screen flex flex-col">
-      {!isHome && (
-        <nav class="mb-12">
-          <a href="/" class="text-sm text-midnight/60 hover:text-midnight transition-colors">
+      <nav class="flex items-center justify-between mb-12">
+        {isHome ? (
+          <span></span>
+        ) : (
+          <a href="/" class="text-sm text-river-slate hover:text-monsoon-ink transition-colors">
             &larr; Yash Kothari
           </a>
-        </nav>
-      )}
+        )}
+        <div class="flex gap-6 text-sm text-river-slate">
+          <a href="/writing" class="hover:text-monsoon-ink transition-colors">Writing</a>
+          <a href="/about" class="hover:text-monsoon-ink transition-colors">About</a>
+          <a href="/family" class="hover:text-monsoon-ink transition-colors">Family</a>
+        </div>
+      </nav>
 
       <main class="flex-1">
         <slot />
       </main>
 
-      <footer class="mt-24 pt-8 border-t border-sage text-sm font-serif text-midnight/30">
+      <footer class="mt-24 pt-8 border-t border-sandstone text-sm font-serif text-river-slate/50">
         &copy; {new Date().getFullYear()} Yash Kothari
       </footer>
     </div>
